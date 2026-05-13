@@ -1,9 +1,13 @@
-Hey! I’m Luca 👋  
-I enjoy building systems that make sense — from the first line of data to the last task they execute. Whether it's a smart agent, a data pipeline, or a static reporting workflow, what matters to me is writing code that’s clean, modular, and designed to scale.
+Hey! I’m Luca 👋
 
-I have a Bachelor’s degree in Computer Science, and I’m now wrapping up my MSc in Artificial Intelligence Systems at the University of Trento — currently working on a thesis about evolving autonomous agents using LLMs 🤖🧠
+I’m an AI & Data Engineer with a background in Computer Science and an MSc in Artificial Intelligence Systems from the University of Trento.
 
-What I love most is making things work well — automating tasks, structuring logic clearly, and making sure every part of a system does its job reliably (and is easy to read and understand, too).  
+I like building systems that are useful, reliable, and easy to reason about — whether that means working with LLMs, designing AI-agent workflows, building data pipelines, or writing the software glue that makes everything work together.
+
+My work sits somewhere between AI engineering, data engineering, and software development. I enjoy turning complex ideas into practical tools: clean code, clear logic, structured data, and automation that actually helps.
+
+Recently, I’ve been focusing on LLM-based applications, AI agents, and data-driven automation; both through my MSc thesis on autonomous desktop agents and my current work at Cosman, where I design and develop multi-agent AI workflows for enterprise analytics, dynamic reporting, and data analysis.
+
 **The harder the problem, the more fun I have.**
 
 ---
@@ -15,7 +19,6 @@ What I love most is making things work well — automating tasks, structuring lo
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL--SQL-F80000?style=flat&logo=oracle&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
@@ -26,7 +29,6 @@ What I love most is making things work well — automating tasks, structuring lo
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=flat&logo=plotly&logoColor=blue)
-![DAX](https://img.shields.io/badge/DAX-204399?style=flat)
 
 **🤖 Planning & Automation**: ![PDDL](https://img.shields.io/badge/PDDL-lightgrey?style=flat)
 ![HTN (Panda)](https://img.shields.io/badge/HTN--Panda-blue?style=flat)
